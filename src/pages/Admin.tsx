@@ -3,7 +3,7 @@ import { supabase } from '../lib/supabaseClient'
 import type { Session } from '@supabase/supabase-js'
 import type { MediaItem, MediaCategory } from '../types'
 import { motion, AnimatePresence } from 'framer-motion'
-import { Pencil, Trash2, X, Upload, MessageSquare, Mail, Phone, User, CheckCircle, Circle } from 'lucide-react'
+import { Pencil, Trash2, X, Upload, MessageSquare, Mail, Phone, CheckCircle, Circle } from 'lucide-react'
 
 // ---------- Notification Component ----------
 interface Notification {
