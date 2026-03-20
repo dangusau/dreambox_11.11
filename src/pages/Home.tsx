@@ -8,7 +8,7 @@ import MediaCard from '../components/MediaCard'
 import LoadingSpinner from '../components/LoadingSpinner'
 
 // Typewriter timing configuration (all in milliseconds)
-const TYPING_SPEED = 4
+const TYPING_SPEED = 8
 const DELETING_SPEED = 1
 const PAUSE_DURATION = 1000
 
